@@ -18,7 +18,7 @@ Você deve imprimir o número máximo de inteiros únicos encontrado entre todos
 ### Exemplo de Entrada e Saída
 - Entrada\
 ![imagem/entrada.png](imagem/entrada.png)
-- Saída
+- Saída\
 ![imagem/saida.png](imagem/saida.png)
 
 
